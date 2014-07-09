@@ -1,0 +1,73 @@
+ Volume in drive C is Windows8
+ Volume Serial Number is 6871-B75D
+
+ Directory of C:\Users\csuplinski\Documents\Visual Studio 2010\Projects\WorldWar\BaseProject
+
+07/05/2014  11:30 PM            11,381 BaseProject.vcxproj
+03/06/2013  07:29 PM               143 BaseProject.vcxproj.user
+02/05/2014  12:08 AM             8,387 cube.cpp
+02/04/2014  11:58 PM               795 cube.h
+01/20/2014  01:17 PM             4,536 cube2.cpp
+05/12/2013  01:41 AM               779 cube2.h
+02/06/2014  05:32 PM             9,736 cube3.cpp
+02/06/2014  02:55 PM               708 cube3.h
+02/04/2014  02:52 PM             7,355 cylinder.cpp
+02/04/2014  02:52 PM               839 cylinder.h
+02/06/2014  02:48 PM             5,458 cylinder2.cpp
+01/14/2014  10:45 PM               818 cylinder2.h
+07/04/2014  10:57 PM             6,769 desert.cpp
+07/04/2014  10:56 PM               971 desert.h
+02/04/2014  02:42 PM             5,405 disc.cpp
+02/04/2014  02:38 PM               835 disc.h
+07/05/2014  11:15 PM            16,004 forest.cpp
+07/05/2014  11:13 PM             1,171 forest.h
+07/05/2014  11:28 PM            16,700 gameMode1.cpp
+06/29/2014  09:42 PM             2,470 gameMode1.h
+02/18/2014  01:20 PM             3,153 grenade.cpp
+02/18/2014  12:05 AM               998 grenade.h
+07/05/2014  04:25 PM            16,430 person.cpp
+03/06/2014  06:10 PM             1,345 person.h
+06/18/2014  09:06 PM             8,104 personFixed.cpp
+06/18/2014  09:06 PM               715 personFixed.h
+06/30/2014  02:17 PM               256 rectangularObstacles.cpp
+06/30/2014  02:17 PM               417 rectangularObstacles.h
+03/16/2014  05:08 PM               209 roundObstacles.cpp
+03/16/2014  05:23 PM               327 roundObstacles.h
+03/06/2014  05:47 PM             2,338 soldier.cpp
+03/06/2014  05:47 PM             1,470 soldier.h
+02/04/2014  02:58 PM             6,997 sphere.cpp
+02/04/2014  02:58 PM               822 sphere.h
+01/14/2014  10:55 PM             5,741 sphere2.cpp
+01/14/2014  10:45 PM               795 sphere2.h
+07/01/2014  08:05 PM             3,371 sphereShader.frag
+03/16/2014  03:28 PM             1,190 sphereShader.vert
+01/14/2014  10:55 PM             5,327 square2.cpp
+01/14/2014  10:45 PM               803 square2.h
+05/26/2014  11:18 AM             5,715 square3.cpp
+01/14/2014  10:45 PM               812 square3.h
+05/12/2013  01:41 AM             5,582 square4.cpp
+05/12/2013  01:41 AM               779 square4.h
+07/04/2014  11:04 PM            49,431 squareStadium.cpp
+07/04/2014  11:03 PM             1,130 squareStadium.h
+06/19/2014  11:23 AM            34,790 team.cpp
+07/05/2014  11:20 PM             2,399 team.h
+02/23/2014  09:28 PM             2,908 texture_shader_color.frag
+02/06/2014  03:07 PM             1,082 texture_shader_color.vert
+07/05/2014  11:46 PM                 0 tmpListOfFiles.txt
+03/16/2014  02:09 AM             1,894 tree.cpp
+03/15/2014  11:29 PM               688 tree.h
+07/05/2014  11:35 PM             7,104 volcano.cpp
+07/05/2014  11:34 PM               987 volcano.h
+07/05/2014  11:46 PM        40,849,408 WorldWar.sdf
+12/21/2013  10:15 PM               888 WorldWar.sln
+             120 File(s)     41,360,745 bytes
+              12 Dir(s)  68,651,118,592 bytes free
+			  
+-Cleanup checklist for each file:
+	-Remove any extra variables
+	-Remove any extra includes
+	-Go through and include comment for most functions
+	-Check to make sure file name is included in all error statements
+	-Make sure comment at top of page just has Name and Project (and maybe a description of the class if it's not obvious)
+	-Remove unnecessary namespaces
+	-Remove all warnings

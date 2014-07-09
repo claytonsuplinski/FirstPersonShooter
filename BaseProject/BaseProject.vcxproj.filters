@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Extra">
+      <UniqueIdentifier>{7604083e-3606-4e85-aa74-71da3edcdb33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Basic Shapes">
+      <UniqueIdentifier>{fe742b00-836a-4958-a6e7-79fe40dabe44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Extra">
+      <UniqueIdentifier>{50cf4dc8-e136-475b-9b41-55c995f88f21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BasicStructures">
+      <UniqueIdentifier>{9afb56c6-91ce-4cd1-bd62-a56a9528dd7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ComplexObjects">
+      <UniqueIdentifier>{b53a58cd-90fc-44f7-825f-8d75310f302f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BasicShapes">
+      <UniqueIdentifier>{eb8d797b-1af7-4336-8f4d-76e43e0f64bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ComplexObjects">
+      <UniqueIdentifier>{af963a35-4aae-4a8f-a5ab-e1d045fd0474}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Extra">
+      <UniqueIdentifier>{6ffe43b4-69be-4b8b-a641-175d8decf4e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BasicStructures">
+      <UniqueIdentifier>{d2dccfce-9431-4277-8407-fcb2211d3837}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameOrganization">
+      <UniqueIdentifier>{628e76f2-d5fc-42ae-a948-add80ff7c951}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Basic Shapes\Primitives">
+      <UniqueIdentifier>{f51092b5-c793-4d54-b08a-7ce5bbeda78a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BasicShapes\Primitives">
+      <UniqueIdentifier>{ae0d9316-f82f-4284-9661-2999ff61b29d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BasicShapes\Primitives\Cube">
+      <UniqueIdentifier>{a5190495-30a0-4586-89be-e3fbb03a7fc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BasicShapes\Primitives\Cylinder">
+      <UniqueIdentifier>{f586259f-9d12-4bcd-8fdf-b6dd4cd23192}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BasicShapes\Primitives\Sphere">
+      <UniqueIdentifier>{654181be-ecd9-4db0-99ff-96485b323769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BasicShapes\Primitives\Square">
+      <UniqueIdentifier>{10fff8c9-7d5b-4731-9f9e-a1a06f547d21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Basic Shapes\Primitives\Cube">
+      <UniqueIdentifier>{f6cbc8f8-d5ae-4275-9890-d61aa5fd38d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Basic Shapes\Primitives\Cylinder">
+      <UniqueIdentifier>{1ec28822-04a0-456b-8e4d-a40c72e1c9f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Basic Shapes\Primitives\Sphere">
+      <UniqueIdentifier>{62b7877a-6d0a-4eac-8d1b-52a303ac20c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Basic Shapes\Primitives\Square">
+      <UniqueIdentifier>{24b46044-acc4-479f-bab0-41eae1346314}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameOrganization\Weapons/Items">
+      <UniqueIdentifier>{c9b51687-ac49-4e24-aeae-6bbd5593def3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameOrganization\Organization">
+      <UniqueIdentifier>{551ec14c-05e2-4b48-af01-5f7ecd6c9a69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameOrganization">
+      <UniqueIdentifier>{06a88a02-2851-41db-a28d-ef440c292b86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameOrganization\Weapons/Items">
+      <UniqueIdentifier>{ccac887a-3ec4-4f75-9e5f-330e217c8747}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameOrganization\Organization">
+      <UniqueIdentifier>{b1323c62-2c8f-44a3-8912-b838abf83008}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameOrganization\GameModes">
+      <UniqueIdentifier>{ca622004-f85a-4a03-88a6-7e9554d5cd01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameOrganization\GameModes">
+      <UniqueIdentifier>{9e85c71e-2183-474c-8266-d5aa93655366}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ComplexObjects\Arenas">
+      <UniqueIdentifier>{38d23f72-44b8-4580-9f02-b4086d6337bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ComplexObjects\Arenas">
+      <UniqueIdentifier>{9d58de02-ac2d-4ec2-85f4-03beccae401a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameOrganization\Obstacles">
+      <UniqueIdentifier>{b7b138ad-e369-4efb-8894-0ea5133031d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameOrganization\Obstacles">
+      <UniqueIdentifier>{3d707f88-782f-4092-94d5-89fa28629b8e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="jumbotron.cpp">
+      <Filter>Source Files\ComplexObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\ModernGLExample\object.cpp">
+      <Filter>Source Files\BasicStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="vertexattributes2.cpp">
+      <Filter>Source Files\BasicStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="object2.cpp">
+      <Filter>Source Files\BasicStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="shader2.cpp">
+      <Filter>Source Files\BasicStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="shader_utils.cpp">
+      <Filter>Source Files\BasicStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Source Files\BasicStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\ModernGLExample\vertexattributes.cpp">
+      <Filter>Source Files\BasicStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="shader.cpp">
+      <Filter>Source Files\BasicStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="fbo.cpp">
+      <Filter>Source Files\BasicStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="globals.cpp">
+      <Filter>Source Files\BasicStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="precip.cpp">
+      <Filter>Source Files\Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="gengar.cpp">
+      <Filter>Source Files\BasicShapes</Filter>
+    </ClCompile>
+    <ClCompile Include="soldier.cpp">
+      <Filter>Source Files\GameOrganization</Filter>
+    </ClCompile>
+    <ClCompile Include="snow.cpp">
+      <Filter>Source Files\BasicShapes</Filter>
+    </ClCompile>
+    <ClCompile Include="disc.cpp">
+      <Filter>Source Files\BasicShapes\Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="person.cpp">
+      <Filter>Source Files\ComplexObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="impostor.cpp">
+      <Filter>Source Files\BasicShapes\Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="cube.cpp">
+      <Filter>Source Files\BasicShapes\Primitives\Cube</Filter>
+    </ClCompile>
+    <ClCompile Include="cube3.cpp">
+      <Filter>Source Files\BasicShapes\Primitives\Cube</Filter>
+    </ClCompile>
+    <ClCompile Include="cube2.cpp">
+      <Filter>Source Files\BasicShapes\Primitives\Cube</Filter>
+    </ClCompile>
+    <ClCompile Include="cylinder.cpp">
+      <Filter>Source Files\BasicShapes\Primitives\Cylinder</Filter>
+    </ClCompile>
+    <ClCompile Include="cylinder2.cpp">
+      <Filter>Source Files\BasicShapes\Primitives\Cylinder</Filter>
+    </ClCompile>
+    <ClCompile Include="sphere.cpp">
+      <Filter>Source Files\BasicShapes\Primitives\Sphere</Filter>
+    </ClCompile>
+    <ClCompile Include="sphere2.cpp">
+      <Filter>Source Files\BasicShapes\Primitives\Sphere</Filter>
+    </ClCompile>
+    <ClCompile Include="square4.cpp">
+      <Filter>Source Files\BasicShapes\Primitives\Square</Filter>
+    </ClCompile>
+    <ClCompile Include="square2.cpp">
+      <Filter>Source Files\BasicShapes\Primitives\Square</Filter>
+    </ClCompile>
+    <ClCompile Include="square3.cpp">
+      <Filter>Source Files\BasicShapes\Primitives\Square</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.cpp">
+      <Filter>Source Files\GameOrganization\Weapons/Items</Filter>
+    </ClCompile>
+    <ClCompile Include="canister.cpp">
+      <Filter>Source Files\GameOrganization\Weapons/Items</Filter>
+    </ClCompile>
+    <ClCompile Include="grenade.cpp">
+      <Filter>Source Files\GameOrganization\Weapons/Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ai.cpp">
+      <Filter>Source Files\GameOrganization\Organization</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source Files\GameOrganization\Organization</Filter>
+    </ClCompile>
+    <ClCompile Include="team.cpp">
+      <Filter>Source Files\GameOrganization\Organization</Filter>
+    </ClCompile>
+    <ClCompile Include="gameMode1.cpp">
+      <Filter>Source Files\GameOrganization\GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="squareStadium.cpp">
+      <Filter>Source Files\ComplexObjects\Arenas</Filter>
+    </ClCompile>
+    <ClCompile Include="forest.cpp">
+      <Filter>Source Files\ComplexObjects\Arenas</Filter>
+    </ClCompile>
+    <ClCompile Include="tree.cpp">
+      <Filter>Source Files\GameOrganization\Obstacles</Filter>
+    </ClCompile>
+    <ClCompile Include="building.cpp">
+      <Filter>Source Files\GameOrganization\Obstacles</Filter>
+    </ClCompile>
+    <ClCompile Include="roundObstacles.cpp">
+      <Filter>Source Files\GameOrganization\Obstacles</Filter>
+    </ClCompile>
+    <ClCompile Include="rectangularObstacles.cpp">
+      <Filter>Source Files\GameOrganization\Obstacles</Filter>
+    </ClCompile>
+    <ClCompile Include="desert.cpp">
+      <Filter>Source Files\ComplexObjects\Arenas</Filter>
+    </ClCompile>
+    <ClCompile Include="personFixed.cpp">
+      <Filter>Source Files\ComplexObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="volcano.cpp">
+      <Filter>Source Files\ComplexObjects\Arenas</Filter>
+    </ClCompile>
+    <ClCompile Include="cave.cpp">
+      <Filter>Source Files\ComplexObjects\Arenas</Filter>
+    </ClCompile>
+    <ClCompile Include="textureshader.cpp">
+      <Filter>Source Files\BasicStructures</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Downloads\ModernGLExample\object.h">
+      <Filter>Header Files\BasicStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="object2.h">
+      <Filter>Header Files\BasicStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="shader_utils.h">
+      <Filter>Header Files\BasicStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="shader2.h">
+      <Filter>Header Files\BasicStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Header Files\BasicStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\ModernGLExample\vertexattributes.h">
+      <Filter>Header Files\BasicStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="vertexattributes2.h">
+      <Filter>Header Files\BasicStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="jumbotron.h">
+      <Filter>Header Files\ComplexObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="shader.h">
+      <Filter>Header Files\BasicStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="fbo.h">
+      <Filter>Header Files\BasicStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="globals.h">
+      <Filter>Header Files\BasicStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="precip.h">
+      <Filter>Header Files\Extra</Filter>
+    </ClInclude>
+    <ClInclude Include="gengar.h">
+      <Filter>Header Files\Basic Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="soldier.h">
+      <Filter>Header Files\GameOrganization</Filter>
+    </ClInclude>
+    <ClInclude Include="snow.h">
+      <Filter>Header Files\Basic Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="disc.h">
+      <Filter>Header Files\Basic Shapes\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="person.h">
+      <Filter>Header Files\ComplexObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="cube.h">
+      <Filter>Header Files\Basic Shapes\Primitives\Cube</Filter>
+    </ClInclude>
+    <ClInclude Include="cube3.h">
+      <Filter>Header Files\Basic Shapes\Primitives\Cube</Filter>
+    </ClInclude>
+    <ClInclude Include="cube2.h">
+      <Filter>Header Files\Basic Shapes\Primitives\Cube</Filter>
+    </ClInclude>
+    <ClInclude Include="cylinder.h">
+      <Filter>Header Files\Basic Shapes\Primitives\Cylinder</Filter>
+    </ClInclude>
+    <ClInclude Include="cylinder2.h">
+      <Filter>Header Files\Basic Shapes\Primitives\Cylinder</Filter>
+    </ClInclude>
+    <ClInclude Include="sphere.h">
+      <Filter>Header Files\Basic Shapes\Primitives\Sphere</Filter>
+    </ClInclude>
+    <ClInclude Include="sphere2.h">
+      <Filter>Header Files\Basic Shapes\Primitives\Sphere</Filter>
+    </ClInclude>
+    <ClInclude Include="square4.h">
+      <Filter>Header Files\Basic Shapes\Primitives\Square</Filter>
+    </ClInclude>
+    <ClInclude Include="square2.h">
+      <Filter>Header Files\Basic Shapes\Primitives\Square</Filter>
+    </ClInclude>
+    <ClInclude Include="square3.h">
+      <Filter>Header Files\Basic Shapes\Primitives\Square</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>Header Files\GameOrganization\Weapons/Items</Filter>
+    </ClInclude>
+    <ClInclude Include="canister.h">
+      <Filter>Header Files\GameOrganization\Weapons/Items</Filter>
+    </ClInclude>
+    <ClInclude Include="grenade.h">
+      <Filter>Header Files\GameOrganization\Weapons/Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ai.h">
+      <Filter>Header Files\GameOrganization\Organization</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Header Files\GameOrganization\Organization</Filter>
+    </ClInclude>
+    <ClInclude Include="team.h">
+      <Filter>Header Files\GameOrganization\Organization</Filter>
+    </ClInclude>
+    <ClInclude Include="impostor.h">
+      <Filter>Header Files\Basic Shapes\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="gameMode1.h">
+      <Filter>Header Files\GameOrganization\GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="squareStadium.h">
+      <Filter>Header Files\ComplexObjects\Arenas</Filter>
+    </ClInclude>
+    <ClInclude Include="forest.h">
+      <Filter>Header Files\ComplexObjects\Arenas</Filter>
+    </ClInclude>
+    <ClInclude Include="building.h">
+      <Filter>Header Files\GameOrganization\Obstacles</Filter>
+    </ClInclude>
+    <ClInclude Include="tree.h">
+      <Filter>Header Files\GameOrganization\Obstacles</Filter>
+    </ClInclude>
+    <ClInclude Include="roundObstacles.h">
+      <Filter>Header Files\GameOrganization\Obstacles</Filter>
+    </ClInclude>
+    <ClInclude Include="rectangularObstacles.h">
+      <Filter>Header Files\GameOrganization\Obstacles</Filter>
+    </ClInclude>
+    <ClInclude Include="desert.h">
+      <Filter>Header Files\ComplexObjects\Arenas</Filter>
+    </ClInclude>
+    <ClInclude Include="personFixed.h">
+      <Filter>Header Files\ComplexObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="volcano.h">
+      <Filter>Header Files\ComplexObjects\Arenas</Filter>
+    </ClInclude>
+    <ClInclude Include="cave.h">
+      <Filter>Header Files\ComplexObjects\Arenas</Filter>
+    </ClInclude>
+    <ClInclude Include="texturedshader.h">
+      <Filter>Header Files\BasicStructures</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="phong.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="phong.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="phong2.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="basic_texture_shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="basic_texture_shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="text.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="text.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="basic_skybox_shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="basic_skybox_shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="sphereShader.frag">
+      <Filter>Resource Files\Extra</Filter>
+    </None>
+    <None Include="sphereShader.vert">
+      <Filter>Resource Files\Extra</Filter>
+    </None>
+    <None Include="jumbotronShader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="jumbotronShader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="phong3.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="phong3.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="basic_texture_shader2.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="texture_shader_color.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="texture_shader_color.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,212 @@
+﻿Build started 7/8/2014 9:49:10 PM.
+     1>Project "C:\Users\csuplinski\Documents\Visual Studio 2010\Projects\FirstPersonShooter\BaseProject\BaseProject.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\WorldWar.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Common Files\ft2411\freetype-2.4.11\include" /IC:\Qt\Qt5.0.2\5.0.2\msvc2010_opengl\include\QtWidgets /I"C:\Program Files (x86)\Common Files\FreeImage\Source" /I"C:\Program Files (x86)\OpenAL 1.1 SDK\include" /I"C:\Program Files (x86)\Common Files\freealut-1.1.0-bin\freealut-1.1.0-bin\include" /I"C:\Program Files (x86)\Common Files\glew\glew-1.9.0\include" /I"C:\Program Files (x86)\Common Files\glm" /I"C:\Program Files (x86)\Common Files\freeglut\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\Downloads\ModernGLExample\object.cpp ..\..\..\..\..\Downloads\ModernGLExample\vertexattributes.cpp ai.cpp building.cpp bullet.cpp canister.cpp cave.cpp cube.cpp cube2.cpp cube3.cpp cylinder.cpp cylinder2.cpp desert.cpp disc.cpp fbo.cpp forest.cpp gameMode1.cpp gengar.cpp globals.cpp grenade.cpp impostor.cpp jumbotron.cpp main.cpp menu.cpp object2.cpp person.cpp personFixed.cpp precip.cpp rectangularObstacles.cpp roundObstacles.cpp shader.cpp shader2.cpp shader_utils.cpp snow.cpp soldier.cpp sphere.cpp sphere2.cpp square3.cpp square4.cpp squareStadium.cpp team.cpp TextureManager.cpp textureshader.cpp tree.cpp square2.cpp vertexattributes2.cpp volcano.cpp
+         volcano.cpp
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\volcano.cpp(132): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\volcano.cpp(163): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\volcano.cpp(176): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\volcano.cpp(189): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\volcano.cpp(201): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+         vertexattributes2.cpp
+         square2.cpp
+         tree.cpp
+         textureshader.cpp
+         TextureManager.cpp
+         team.cpp
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(659): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(660): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(687): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(701): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(702): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(703): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(704): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(714): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(728): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(729): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(743): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(754): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\team.cpp(777): warning C4018: '<' : signed/unsigned mismatch
+         squareStadium.cpp
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\squarestadium.cpp(1307): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\squarestadium.cpp(1342): warning C4018: '<' : signed/unsigned mismatch
+         square4.cpp
+         square3.cpp
+         sphere2.cpp
+         sphere.cpp
+         soldier.cpp
+         snow.cpp
+         shader_utils.cpp
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\shader_utils.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+         shader2.cpp
+         shader.cpp
+         roundObstacles.cpp
+         rectangularObstacles.cpp
+         precip.cpp
+         Generating Code...
+         Compiling...
+         personFixed.cpp
+         person.cpp
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\person.cpp(45): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\person.cpp(81): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\person.cpp(122): warning C4305: '+=' : truncation from 'double' to 'float'
+         object2.cpp
+         menu.cpp
+         main.cpp
+         jumbotron.cpp
+         impostor.cpp
+         grenade.cpp
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\grenade.cpp(30): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\grenade.cpp(73): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+         globals.cpp
+         gengar.cpp
+         gameMode1.cpp
+         forest.cpp
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\forest.cpp(310): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\forest.cpp(350): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\forest.cpp(362): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\forest.cpp(375): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\forest.cpp(387): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\forest.cpp(400): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\forest.cpp(412): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\forest.cpp(424): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\forest.cpp(435): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+         fbo.cpp
+         disc.cpp
+         desert.cpp
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\desert.cpp(122): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\desert.cpp(153): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\desert.cpp(166): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\desert.cpp(179): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\desert.cpp(191): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+         cylinder2.cpp
+         cylinder.cpp
+         cube3.cpp
+         cube2.cpp
+         cube.cpp
+         Generating Code...
+         Compiling...
+         cave.cpp
+         canister.cpp
+         bullet.cpp
+     1>c:\users\csuplinski\documents\visual studio 2010\projects\firstpersonshooter\baseproject\bullet.cpp(21): warning C4305: '=' : truncation from 'double' to 'float'
+         building.cpp
+         ai.cpp
+         vertexattributes.cpp
+         object.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\WorldWar.exe.embed.manifest.res" Debug\WorldWar_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\csuplinski\Documents\Visual Studio 2010\Projects\FirstPersonShooter\BaseProject\Debug\WorldWar.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Common Files\ft2411\freetype-2.4.11\objs" /LIBPATH:"C:\Program Files (x86)\Common Files\FreeImage\Source\FreeImageLib" /LIBPATH:"C:\Program Files (x86)\OpenAL 1.1 SDK\libs\Win32" /LIBPATH:"C:\Program Files (x86)\Common Files\freealut-1.1.0-bin\freealut-1.1.0-bin\lib" /LIBPATH:"C:\Program Files (x86)\Common Files\SFML\SFML-2.0-rc\lib" /LIBPATH:"C:\Program Files (x86)\Common Files\freeglut\lib" /LIBPATH:"C:\Program Files (x86)\Common Files\glew\glew-1.9.0\lib" freetype2411_D.lib FreeImage.lib OpenAL32.lib alut.lib "sfml-audio.lib" "sfml-graphics.lib" "sfml-main.lib" "sfml-network.lib" "sfml-system.lib" "sfml-window.lib" freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\WorldWar.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\csuplinski\Documents\Visual Studio 2010\Projects\FirstPersonShooter\BaseProject\Debug\WorldWar.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\csuplinski\Documents\Visual Studio 2010\Projects\FirstPersonShooter\BaseProject\Debug\WorldWar.lib" /MACHINE:X86 Debug\WorldWar.exe.embed.manifest.res
+         Debug\object.obj
+         Debug\vertexattributes.obj
+         Debug\ai.obj
+         Debug\building.obj
+         Debug\bullet.obj
+         Debug\canister.obj
+         Debug\cave.obj
+         Debug\cube.obj
+         Debug\cube2.obj
+         Debug\cube3.obj
+         Debug\cylinder.obj
+         Debug\cylinder2.obj
+         Debug\desert.obj
+         Debug\disc.obj
+         Debug\fbo.obj
+         Debug\forest.obj
+         Debug\gameMode1.obj
+         Debug\gengar.obj
+         Debug\globals.obj
+         Debug\grenade.obj
+         Debug\impostor.obj
+         Debug\jumbotron.obj
+         Debug\main.obj
+         Debug\menu.obj
+         Debug\object2.obj
+         Debug\person.obj
+         Debug\personFixed.obj
+         Debug\precip.obj
+         Debug\rectangularObstacles.obj
+         Debug\roundObstacles.obj
+         Debug\shader.obj
+         Debug\shader2.obj
+         Debug\shader_utils.obj
+         Debug\snow.obj
+         Debug\soldier.obj
+         Debug\sphere.obj
+         Debug\sphere2.obj
+         Debug\square3.obj
+         Debug\square4.obj
+         Debug\squareStadium.obj
+         Debug\team.obj
+         Debug\TextureManager.obj
+         Debug\textureshader.obj
+         Debug\tree.obj
+         Debug\square2.obj
+         Debug\vertexattributes2.obj
+         Debug\volcano.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\WorldWar.exe.embed.manifest" /manifest Debug\WorldWar.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\WorldWar.exe.embed.manifest.res" Debug\WorldWar_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\csuplinski\Documents\Visual Studio 2010\Projects\FirstPersonShooter\BaseProject\Debug\WorldWar.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Common Files\ft2411\freetype-2.4.11\objs" /LIBPATH:"C:\Program Files (x86)\Common Files\FreeImage\Source\FreeImageLib" /LIBPATH:"C:\Program Files (x86)\OpenAL 1.1 SDK\libs\Win32" /LIBPATH:"C:\Program Files (x86)\Common Files\freealut-1.1.0-bin\freealut-1.1.0-bin\lib" /LIBPATH:"C:\Program Files (x86)\Common Files\SFML\SFML-2.0-rc\lib" /LIBPATH:"C:\Program Files (x86)\Common Files\freeglut\lib" /LIBPATH:"C:\Program Files (x86)\Common Files\glew\glew-1.9.0\lib" freetype2411_D.lib FreeImage.lib OpenAL32.lib alut.lib "sfml-audio.lib" "sfml-graphics.lib" "sfml-main.lib" "sfml-network.lib" "sfml-system.lib" "sfml-window.lib" freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\WorldWar.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\csuplinski\Documents\Visual Studio 2010\Projects\FirstPersonShooter\BaseProject\Debug\WorldWar.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\csuplinski\Documents\Visual Studio 2010\Projects\FirstPersonShooter\BaseProject\Debug\WorldWar.lib" /MACHINE:X86 Debug\WorldWar.exe.embed.manifest.res
+         Debug\object.obj
+         Debug\vertexattributes.obj
+         Debug\ai.obj
+         Debug\building.obj
+         Debug\bullet.obj
+         Debug\canister.obj
+         Debug\cave.obj
+         Debug\cube.obj
+         Debug\cube2.obj
+         Debug\cube3.obj
+         Debug\cylinder.obj
+         Debug\cylinder2.obj
+         Debug\desert.obj
+         Debug\disc.obj
+         Debug\fbo.obj
+         Debug\forest.obj
+         Debug\gameMode1.obj
+         Debug\gengar.obj
+         Debug\globals.obj
+         Debug\grenade.obj
+         Debug\impostor.obj
+         Debug\jumbotron.obj
+         Debug\main.obj
+         Debug\menu.obj
+         Debug\object2.obj
+         Debug\person.obj
+         Debug\personFixed.obj
+         Debug\precip.obj
+         Debug\rectangularObstacles.obj
+         Debug\roundObstacles.obj
+         Debug\shader.obj
+         Debug\shader2.obj
+         Debug\shader_utils.obj
+         Debug\snow.obj
+         Debug\soldier.obj
+         Debug\sphere.obj
+         Debug\sphere2.obj
+         Debug\square3.obj
+         Debug\square4.obj
+         Debug\squareStadium.obj
+         Debug\team.obj
+         Debug\TextureManager.obj
+         Debug\textureshader.obj
+         Debug\tree.obj
+         Debug\square2.obj
+         Debug\vertexattributes2.obj
+         Debug\volcano.obj
+         BaseProject.vcxproj -> C:\Users\csuplinski\Documents\Visual Studio 2010\Projects\FirstPersonShooter\BaseProject\Debug\WorldWar.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\WorldWar.unsuccessfulbuild".
+         Touching "Debug\WorldWar.lastbuildstate".
+     1>Done Building Project "C:\Users\csuplinski\Documents\Visual Studio 2010\Projects\FirstPersonShooter\BaseProject\BaseProject.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:44.95
